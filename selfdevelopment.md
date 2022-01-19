@@ -1,4 +1,4 @@
-** Self Development project Notes
+Self Development project Notes
 
 We use Django for API
 React-Redux for front-end
